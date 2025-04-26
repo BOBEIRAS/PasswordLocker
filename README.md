@@ -1,4 +1,4 @@
-🔐 MiniPassVault
+🔐 PasswordLocker
 
 A small password manager built with C# (Windows Forms) focused on simplicity, organization, and basic security.
 
