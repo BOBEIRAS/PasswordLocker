@@ -3,6 +3,7 @@
 A small password manager built with C# (Windows Forms) focused on simplicity, organization, and basic security.
 
 ✨ Features
+
 🔒 Password encryption using Base64
 
 ✅ Protection with a master key
