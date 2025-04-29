@@ -2,6 +2,7 @@
 
 A small password manager built with C# (Windows Forms) focused on simplicity, organization, and basic security.
 
+
 ✨ Features
 
 🔒 Password encryption using Base64
@@ -22,6 +23,5 @@ A small password manager built with C# (Windows Forms) focused on simplicity, or
 
 
 🚀 How to use
-Clone the repository:
 
-git clone https://github.com/BOBEIRAS/PasswordLocker.git
+Clone the repository: git clone https://github.com/BOBEIRAS/PasswordLocker.git
